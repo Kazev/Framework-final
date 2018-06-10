@@ -1,0 +1,17 @@
+.prueba{
+border: 1px solid black;
+min-height: 100px;
+}
+.fuente-titulo{
+  font-family: 'Pacifico', cursive;
+  font-size: 3rem;
+}
+.fuente-slogan{
+  font-family: 'Shadows Into Light', cursive;
+}
+.row{
+background-color: #DBE6EE;
+}
+.Comida-principal{
+  background-image: url(../img/comida.jpg);
+}
