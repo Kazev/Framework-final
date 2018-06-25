@@ -1,0 +1,40 @@
+.barra-superior{
+  min-height: 4rem;
+}
+div[class*="columna"]{
+  min-height: 50rem;
+}
+div[class*="bloque"]{
+  height: 25rem;
+}
+.columna-chat{
+  padding: 0px !important;
+}
+.columna-news{
+  padding: 0px !important;
+}
+.card{
+  min-height: 7rem;
+}
+.card-2{
+min-width: 17rem;
+padding: 2rem;
+}
+.card-3{
+min-width: 17rem;
+padding: 2rem;
+}
+.imagenlogo{
+  height:50px;
+  width:50px;
+  margin-top: 0.5rem;
+}
+.contenedor{
+  min-height: 50rem;
+  padding: 0.5rem;
+  margin-top: 1rem;
+}
+.responsive-img{
+  border: 0.6rem solid #ff8f00;
+  border-radius: 5px;
+}

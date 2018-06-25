@@ -1,1 +1,10 @@
-
+.contenedor-principal{
+  background-color: #ef5350;
+}
+.fotoprincipal{
+  margin-left: 10%;
+  margin-top: 10%;
+}
+.cabecera{
+  height: 7rem;
+}
