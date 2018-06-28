@@ -1,5 +1,13 @@
+html{
+  background-image: url(../img/fondo.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
 .contenedor-principal{
-  background-color: #ef5350;
+
+  max-width: 90%;
+  margin: auto;
 }
 .fotoprincipal{
   margin-left: 10%;
@@ -12,3 +20,8 @@
   height: 4rem;
   width: 4rem;
   margin-bottom: 2rem;
+}
+.perfil{
+  border-radius: 50%;
+  margin-left: 35%;
+}
